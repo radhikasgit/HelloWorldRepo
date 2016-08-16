@@ -1,4 +1,4 @@
 # HelloWorldRepo
 starting on git
 
-This is my develper branch edits.
+This is my developer branch edits.
